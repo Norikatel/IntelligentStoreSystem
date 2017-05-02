@@ -1,0 +1,12 @@
+C:\Users\Student03\Documents\Visual Studio 2015\Projects\IntelligentStoreSystem\IntelligentStoreSystem\bin\Debug\IntelligentStoreSystem.exe.config
+C:\Users\Student03\Documents\Visual Studio 2015\Projects\IntelligentStoreSystem\IntelligentStoreSystem\obj\Debug\IntelligentStoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\Student03\Documents\Visual Studio 2015\Projects\IntelligentStoreSystem\IntelligentStoreSystem\bin\Debug\IntelligentStoreSystem.exe
+C:\Users\Student03\Documents\Visual Studio 2015\Projects\IntelligentStoreSystem\IntelligentStoreSystem\bin\Debug\IntelligentStoreSystem.pdb
+C:\Users\Student03\Documents\Visual Studio 2015\Projects\IntelligentStoreSystem\IntelligentStoreSystem\obj\Debug\IntelligentStoreSystem.exe
+C:\Users\Student03\Documents\Visual Studio 2015\Projects\IntelligentStoreSystem\IntelligentStoreSystem\obj\Debug\IntelligentStoreSystem.pdb
+C:\Users\norik\Desktop\IntelligentStoreSystem\IntelligentStoreSystem\obj\Debug\IntelligentStoreSystem.csprojResolveAssemblyReference.cache
+C:\Users\norik\Desktop\IntelligentStoreSystem\IntelligentStoreSystem\obj\Debug\IntelligentStoreSystem.exe
+C:\Users\norik\Desktop\IntelligentStoreSystem\IntelligentStoreSystem\obj\Debug\IntelligentStoreSystem.pdb
+C:\Users\norik\Desktop\IntelligentStoreSystem\IntelligentStoreSystem\bin\Debug\IntelligentStoreSystem.exe.config
+C:\Users\norik\Desktop\IntelligentStoreSystem\IntelligentStoreSystem\bin\Debug\IntelligentStoreSystem.exe
+C:\Users\norik\Desktop\IntelligentStoreSystem\IntelligentStoreSystem\bin\Debug\IntelligentStoreSystem.pdb
